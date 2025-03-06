@@ -115,7 +115,6 @@ while True:
                         #print("00000")
 
 
-
                 #condition for [c0][aemnst]
                 l=[[0,0],[0,6],[0,2],[0,5],[0,1],[0,7],[5,2],[7,6],[7,1]]
                 pl=[ch1,ch2]
@@ -124,7 +123,7 @@ while True:
                         ch1=2
                         #print("22222")
 
-                # condition for [c0][aemnst]
+                # condition for [c0][aemnst]xc
                 l = [[6,0],[6,6],[6,2]]
                 pl = [ch1, ch2]
                 if pl in l:
